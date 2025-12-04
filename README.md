@@ -219,7 +219,7 @@ If you use this project in your research, please cite:
 ```bibtex
 @software{binary_embeddings,
   title={Binary Embeddings Comparison},
-  author={Your Name},
+  author={Victor Lobaco},
   year={2025},
   url={https://github.com/yourusername/binary-embeddings}
 }
